@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588351494164",
+    "project_id": "asiacell-cars-c8568",
+    "storage_bucket": "asiacell-cars-c8568.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588351494164:android:5b233714f772dc904aaf01",
+        "android_client_info": {
+          "package_name": "com.asiacell.fleet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJ6vJe1n6sv_EJXMXA_oNj-dSwsP1ObI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
